@@ -1915,9 +1915,6 @@ pre code {
   color: #345;
   border-bottom: none;
 }
-.post-body p a:hover {
-  color: #fcfcfc;
-}
 .post-gallery {
   display: flex;
   min-height: 200px;
