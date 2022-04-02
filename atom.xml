@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>动物园</title>
+  
+  <subtitle>愿你始终保持信念,满怀热情,拥抱无限可能.</subtitle>
+  <link href="https://zedc1ang.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://zedc1ang.github.io/"/>
+  <updated>2022-04-01T11:47:03.202Z</updated>
+  <id>https://zedc1ang.github.io/</id>
+  
+  <author>
+    <name>Sorrymaker</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>社畜教管所</title>
+    <link href="https://zedc1ang.github.io/2022/04/01/%E7%A4%BE%E7%95%9C%E6%95%99%E7%AE%A1%E6%89%80/"/>
+    <id>https://zedc1ang.github.io/2022/04/01/%E7%A4%BE%E7%95%9C%E6%95%99%E7%AE%A1%E6%89%80/</id>
+    <published>2022-04-01T11:27:06.000Z</published>
+    <updated>2022-04-01T11:47:03.202Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="张骏杰老师开课啦"><a href="#张骏杰老师开课啦" class="headerlink" title="张骏杰老师开课啦"></a>张骏杰老师开课啦</h1><span id="more"></span><h2 id="第一课"><a href="#第一课" class="headerlink" title="第一课"></a>第一课</h2><p>若你自认理性且正确，那便应该心平气和，言之有据地与人交流，即使不能立刻说服对方，但也至少埋下了一颗种子，冷嘲热讽或居高临下的态度，总会加大人与人之间的隔阂，最终只是在自己的小圈子中制造回声。愿我们最终都能成为乐观且包容的人，愿意耐心听取他们人的苦衷和声音。</p><hr><h2 id="第二课"><a href="#第二课" class="headerlink" title="第二课"></a>第二课</h2><p>纽约时间比加州时间早三个小时，但加州时间并没有变慢。有人22岁就毕业了，但等了五年才找到好的工作。有人25岁就当上了CEO，却在50岁去世，也有人迟到50岁才当上CEO，然后活到90岁。有人依然单身，同时也有人已婚。奥巴马55岁就退休，川普70岁才开始当总统，世上每个人本来就有自己的发展时区。身边有些人看似走在你前面，也有人看似走在你后面，但其实每个人在自己的时区有自己的步程。不用嫉妒或嘲笑他们，他们都在自己的时区里，你也是！生命就是等待正确的行动时机，所以放轻松！你没有落后，你没有领先，在命运为你安排的属于自己的时区里，一切都准时。</p>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;张骏杰老师开课啦&quot;&gt;&lt;a href=&quot;#张骏杰老师开课啦&quot; class=&quot;headerlink&quot; title=&quot;张骏杰老师开课啦&quot;&gt;&lt;/a&gt;张骏杰老师开课啦&lt;/h1&gt;</summary>
+    
+    
+    
+    <category term="内测人员签到处" scheme="https://zedc1ang.github.io/categories/%E5%86%85%E6%B5%8B%E4%BA%BA%E5%91%98%E7%AD%BE%E5%88%B0%E5%A4%84/"/>
+    
+    
+    <category term="小讲堂" scheme="https://zedc1ang.github.io/tags/%E5%B0%8F%E8%AE%B2%E5%A0%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PAT乙级历年真题题解</title>
+    <link href="https://zedc1ang.github.io/2022/03/31/PAT%E4%B9%99%E7%BA%A7/"/>
+    <id>https://zedc1ang.github.io/2022/03/31/PAT%E4%B9%99%E7%BA%A7/</id>
+    <published>2022-03-31T14:34:55.000Z</published>
+    <updated>2022-04-02T07:29:12.825Z</updated>
+    
+    <content type="html"><![CDATA[<center>2013年秋季-2022年夏季</center><span id="more"></span><h1 id="PAT-乙级-2013年秋季考试"><a href="#PAT-乙级-2013年秋季考试" class="headerlink" title="PAT(乙级)-2013年秋季考试"></a>PAT(乙级)-2013年秋季考试</h1><h2 id="1011-A-B-和-C-15-分"><a href="#1011-A-B-和-C-15-分" class="headerlink" title="1011 A+B 和 C (15 分)"></a>1011 A+B 和 C (15 分)</h2><!--more--><p><span class="exturl" data-url="aHR0cHM6Ly9waW50aWEuY24vcHJvYmxlbS1zZXRzLzk5NDgwNTI2MDIyMzEwMjk3Ni9wcm9ibGVtcy85OTQ4MDUzMTI0MTcwMjE5NTI=">题目导航<i class="fa fa-external-link-alt"></i></span></p><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><ul><li>列表1</li><li>列表2<ul><li>a 子列表1</li><li>b 子列表2</li></ul></li><li>列表3</li></ul><hr><p>PTA</p><hr><p><img src="https://tse1-mm.cn.bing.net/th/id/R-C.4d9cd2e53dddfc238a06e750b73cd023?rik=MsMCKPGumufOyQ&riu=http://www.desktx.com/d/file/wallpaper/scenery/20170209/c2accfe637f86fb6f11949cb8651a09b.jpg&ehk=ia2TVXcow6ygWUVZ1yod5xH4aGd8565SYn6CRpxkNoo=&risl=&pid=ImgRaw&r=0" alt="PAT"></p><p><em>斜体</em><br><strong>加粗</strong></p><p><code>include &lt;stdio.h&gt;</code></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">include &lt;stdio.h&gt;</span><br><span class="line">int main()</span><br><span class="line">&#123;</span><br><span class="line"></span><br><span class="line">    return 0;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><blockquote><p>引用</p></blockquote>]]></content>
+    
+    
+    <summary type="html">&lt;center&gt;2013年秋季-2022年夏季&lt;/center&gt;</summary>
+    
+    
+    
+    <category term="PAT乙级" scheme="https://zedc1ang.github.io/categories/PAT%E4%B9%99%E7%BA%A7/"/>
+    
+    
+    <category term="PAT" scheme="https://zedc1ang.github.io/tags/PAT/"/>
+    
+    <category term="题解" scheme="https://zedc1ang.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
+    
+    <category term="C/C++" scheme="https://zedc1ang.github.io/tags/C-C/"/>
+    
+    <category term="基础语法" scheme="https://zedc1ang.github.io/tags/%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://zedc1ang.github.io/2022/03/31/hello-world/"/>
+    <id>https://zedc1ang.github.io/2022/03/31/hello-world/</id>
+    <published>2022-03-31T05:28:57.271Z</published>
+    <updated>2022-04-01T02:39:55.447Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvLw==">Hexo<i class="fa fa-external-link-alt"></i></span>! This is your very first post. Check <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">documentation<i class="fa fa-external-link-alt"></i></span> for more info. If you get any problems when using Hexo, you can find the answer in <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=">troubleshooting<i class="fa fa-external-link-alt"></i></span> or you can ask me on <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==">GitHub<i class="fa fa-external-link-alt"></i></span>.</p><span id="more"></span><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s">Writing<i class="fa fa-external-link-alt"></i></span></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=">Server<i class="fa fa-external-link-alt"></i></span></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s">Generating<i class="fa fa-external-link-alt"></i></span></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s">Deployment<i class="fa fa-external-link-alt"></i></span></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvLw==&quot;&gt;Hexo&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;! This is your very first post. Check &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&quot;&gt;documentation&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&quot;&gt;troubleshooting&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt; or you can ask me on &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&quot;&gt;GitHub&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;.&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
